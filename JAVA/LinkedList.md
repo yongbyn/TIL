@@ -8,7 +8,7 @@
     + next
   - Head
   - 맨 마지막 Node의 next는 null
-ref) https://www.geeksforgeeks.org/what-is-linked-list/?ref=lbp
+  - ref) https://www.geeksforgeeks.org/what-is-linked-list/?ref=lbp
 
 * 시간 복잡도
   - 탐색
