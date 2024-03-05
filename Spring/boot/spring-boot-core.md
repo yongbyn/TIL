@@ -84,4 +84,6 @@ tasks.named('test') {
     useJUnitPlatform()
 }
 ```
-여기서 task.name('test')를 test로 바꿔주면 useJUnitPlatform의 에러가 사라짐
+※ 여기서 useJUnitPlatform가 에러날 경우 task.name('test')를 test로 바꿔주면 됨
+ref) https://www.inflearn.com/questions/1071921/tasks-named-x27-test-x27-%EC%99%80-%EA%B7%B8%EB%83%A5-test
+ref) https://velog.io/@hye9807/%EC%98%88%EC%A0%9C1-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EA%B3%BC-%EC%84%A4%EA%B3%84
