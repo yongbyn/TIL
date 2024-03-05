@@ -59,4 +59,29 @@
       + 이미 포트에 연결되어있는 경우 : cmd에 netstat -ano | findstr :8080
       + taskkill /f /pid 254188(프로세스 번호)
       + ![image](https://github.com/yongbyn/TIL/assets/44955172/ba186bae-34a8-44be-b21f-be2427126213)
-    
+
+* build.gradle 설정
+```
+plugins {
+    id 'java'
+    id 'war'
+}
+
+group = 'hello'
+version = '0.0.1-SNAPSHOT'
+sourceCompatibility = '17'
+
+repositories {
+    mavenCentral()
+}
+
+dependencies {
+    //서블릿
+    implementation 'jakarta.servlet:jakarta.servlet-api:6.0.0'
+}
+
+tasks.named('test') {
+    useJUnitPlatform()
+}
+```
+여기서 task.name('test')를 test로 바꿔주면 useJUnitPlatform의 에러가 사라짐
