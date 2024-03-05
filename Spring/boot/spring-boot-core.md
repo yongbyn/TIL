@@ -13,7 +13,7 @@
 * 단독으로 실행할 수 있는 스프링 애플리케이션을 쉽게 생성
 * 관례에 의한 간결한 설정(복잡한 설정을 간결하게 줄일 수 있음)
   - 최근에는 스프링 프레임워크 단독으로만 사용하지 않음
-  - 
+
 ### 스프링 부트 - 핵심 기능 5가지
 * WAS : Tomcat같은 웹 서버를 내장해서 별도의 웹 서버를 설치하지 않아도 됨
 * 라이브러리 관리 
@@ -85,5 +85,7 @@ tasks.named('test') {
 }
 ```
 ※ 여기서 useJUnitPlatform가 에러날 경우 task.name('test')를 test로 바꿔주면 됨
-ref) https://www.inflearn.com/questions/1071921/tasks-named-x27-test-x27-%EC%99%80-%EA%B7%B8%EB%83%A5-test
-ref) https://velog.io/@hye9807/%EC%98%88%EC%A0%9C1-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EA%B3%BC-%EC%84%A4%EA%B3%84
+  - ref) https://www.inflearn.com/questions/1071921/tasks-named-x27-test-x27-%EC%99%80-%EA%B7%B8%EB%83%A5-test
+  - ref) https://velog.io/@hye9807/%EC%98%88%EC%A0%9C1-%EB%B9%84%EC%A6%88%EB%8B%88%EC%8A%A4-%EC%9A%94%EA%B5%AC%EC%82%AC%ED%95%AD%EA%B3%BC-%EC%84%A4%EA%B3%84
+* gradlew build
+  - terminal에서 ./gradlew build 안되면 gradlew build
