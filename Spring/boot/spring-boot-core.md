@@ -1,4 +1,4 @@
-> [스프링 부트 - 핵심 원리와 활용]([https://search.shopping.naver.com/book/catalog/33824626625?cat_id=50010921&frm=PBOKMOD&query=%ED%98%BC%EC%9E%90+%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94+%EC%BB%B4%ED%93%A8%ED%84%B0+%EA%B5%AC%EC%A1%B0%2B%EC%9A%B4%EC%98%81%EC%B2%B4%EC%A0%9C&NaPm=ct%3Dlt312sds%7Cci%3D844548e8dd8a960c346be35ce939307f79e42506%7Ctr%3Dboknx%7Csn%3D95694%7Chk%3Da6eadf79d7232b75fffb0cf6c8269c4ec7bf21d6](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)을 정리한 내용입니다.
+> [스프링 부트 - 핵심 원리와 활용](https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81%EB%B6%80%ED%8A%B8-%ED%95%B5%EC%8B%AC%EC%9B%90%EB%A6%AC-%ED%99%9C%EC%9A%A9/dashboard)을 정리한 내용입니다.
 
 스프링 부트 - 핵심 원리와 활용
 ==============================
